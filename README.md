@@ -1,3 +1,3 @@
-## Head First Java
+## Java
 
 #### Exercises from the book Head First Java
