@@ -1,2 +1,3 @@
-# HF-Java
-Exercises from the book Head First Java
+## HF-Java
+
+#### Exercises from the book Head First Java
