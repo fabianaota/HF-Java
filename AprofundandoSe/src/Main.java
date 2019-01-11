@@ -49,9 +49,23 @@ public class Main {
                 System.out.print("B C");
             }
             if (y == 1) {
-                System.out.print("D");
+                System.out.println("D");
                 y = y - 1;
             }
+        }
+
+        int a = 0;
+        int b = 0;
+        while (a < 5) {
+            if (b < 5) {
+                a = a + 1;
+                if (b < 3) {
+                    a = a - 1;
+                }
+            }
+            b = b + 2;
+            System.out.print(a + "" + b + " ");
+            a = a + 1;
         }
 
     }
